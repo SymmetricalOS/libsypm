@@ -1,0 +1,13 @@
+{
+  "name": "haxelib-template",
+  "url" : "https://github.com/BasicCorruption/haxelib-template",
+  "license": "",
+  "tags": ["useless"],
+  "description": "this does something",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "",
+  "contributors": ["SidGames5"],
+  "dependencies": {},
+  "main": "Main"
+}
